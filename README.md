@@ -7,7 +7,7 @@ mypage.html is the html file we would display on the new page, any scripts go do
 
 ## Features to be added 
 - [ ] <s>link saver save with pop-up</s>
-- [ ] put fav and popular pages with search bar on top
+- [ ] <s>put fav and popular pages with search bar on top</s>
 - [ ] <s>news render in tabs flexbox </s>
 - [ ] <s>Task scheduler</s>
 - [ ] Brainstorming section
